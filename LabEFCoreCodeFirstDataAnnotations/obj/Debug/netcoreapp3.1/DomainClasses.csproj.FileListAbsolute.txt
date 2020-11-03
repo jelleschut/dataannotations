@@ -1,0 +1,9 @@
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\LabEFCoreCodeFirstDataAnnotations\bin\Debug\netcoreapp3.1\DomainClasses.deps.json
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\LabEFCoreCodeFirstDataAnnotations\bin\Debug\netcoreapp3.1\DomainClasses.dll
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\LabEFCoreCodeFirstDataAnnotations\obj\Debug\netcoreapp3.1\DomainClasses.csprojAssemblyReference.cache
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\LabEFCoreCodeFirstDataAnnotations\obj\Debug\netcoreapp3.1\DomainClasses.AssemblyInfoInputs.cache
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\LabEFCoreCodeFirstDataAnnotations\obj\Debug\netcoreapp3.1\DomainClasses.AssemblyInfo.cs
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\LabEFCoreCodeFirstDataAnnotations\bin\Debug\netcoreapp3.1\DomainClasses.pdb
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\LabEFCoreCodeFirstDataAnnotations\obj\Debug\netcoreapp3.1\DomainClasses.csproj.CoreCompileInputs.cache
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\LabEFCoreCodeFirstDataAnnotations\obj\Debug\netcoreapp3.1\DomainClasses.dll
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\LabEFCoreCodeFirstDataAnnotations\obj\Debug\netcoreapp3.1\DomainClasses.pdb

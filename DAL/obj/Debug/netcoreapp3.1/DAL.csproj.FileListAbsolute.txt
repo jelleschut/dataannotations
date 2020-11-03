@@ -1,0 +1,12 @@
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\bin\Debug\netcoreapp3.1\DomainClasses.dll
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\bin\Debug\netcoreapp3.1\DomainClasses.pdb
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\SCHUB05\Documents\InfoSupport\Projects\DDAS\LabEFCoreCodeFirstDataAnnotations\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
